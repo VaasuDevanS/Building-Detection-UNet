@@ -6,8 +6,6 @@ Dependencies can be installed using pipenv Pipfile.
 Disclaimer: This is not my work. Original code and dataset was developed and provided by Pallawi.
 For more information about the original author check out this [Blogpost](https://medium.com/@pallawi.ds/semantic-segmentation-with-u-net-train-and-test-on-your-custom-data-in-keras-39e4f972ec89 "Blog post")
 
-https://colab.research.google.com/github/VaasuDevanS/DeepLearning/blob/master/Landuse%20Landcover%20Classification%20using%20ResNet50/AreaOfInterest_for_testing.ipynb
-
 train_unet.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VaasuDevanS/Building-Detection-UNet/blob/master/train_unet.ipynb)
 
 test_unet.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VaasuDevanS/Building-Detection-UNet/blob/master/test_unet.ipynb)
